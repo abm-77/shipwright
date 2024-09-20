@@ -11,7 +11,7 @@ seen this design before, so I just wanted to document my findings.
 
 ### Entities
 Entities in `shipwright`, like most ECS-likes, are just integer handles called `EntityID`. You use the handles to refer
-to specific entities and thei components.
+to specific entities and their components.
 
 ### Components and ComponentArrays
 
